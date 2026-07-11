@@ -2,7 +2,6 @@ import os
 from datetime import date
 
 # instead of changingf values thousandds times in the code, we can define them here and use them in the code. 
-
 DATABASE_NAME = "Proj1"
 COLLECTION_NAME = "Proj1-Data"
 MONGODB_URL_KEY = "MONGODB_URL"
